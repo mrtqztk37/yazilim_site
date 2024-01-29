@@ -9,6 +9,6 @@ menuBar.onclick = function(){
 
 
     } else{
-        navLinks.style.top = '450px';
+        navLinks.style.top = '-450px';
     }
 };
